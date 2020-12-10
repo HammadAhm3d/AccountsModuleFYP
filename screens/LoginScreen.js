@@ -109,4 +109,3 @@ const styles = StyleSheet.create({
       fontFamily: 'Lato-Regular',
     },
   });
-  
